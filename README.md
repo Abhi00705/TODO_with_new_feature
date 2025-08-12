@@ -1,6 +1,4 @@
-Got it ✅ Here’s a `README.md` for your **TODO\_\_LIST** project with the screenshots you gave.
 
-````markdown
 # TODO__LIST ✅
 
 A simple and interactive **To-Do List** app where users can add, edit, remove, and mark tasks as complete. You can also clear all tasks in one click. Built with **React, Redux Toolkit, Tailwind CSS, and Vite**.
