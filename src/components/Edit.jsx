@@ -9,6 +9,7 @@ const Edit = ({id}) => {
     const [value, setValue] = useState(ele?.data);
   return (
     <div className='absolute right-5'>
+        <h2 className='font-bold '>Edit: </h2>
         <input 
             type="text" 
             value={value} 

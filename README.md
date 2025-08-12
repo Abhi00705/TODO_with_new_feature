@@ -1,12 +1,80 @@
-# React + Vite
+Got it ✅ Here’s a `README.md` for your **TODO\_\_LIST** project with the screenshots you gave.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+````markdown
+# TODO__LIST ✅
 
-Currently, two official plugins are available:
+A simple and interactive **To-Do List** app where users can add, edit, remove, and mark tasks as complete. You can also clear all tasks in one click. Built with **React, Redux Toolkit, Tailwind CSS, and Vite**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Main Interface
+![Main Interface](./src/assets/Screensort-2.png)
+
+### Editing the task
+![Edit Tasks](./src/assets/screensort-1.png)
+
+---
+
+## 📜 Features
+
+1. ➕ **Add Tasks** — Enter a task and click "Add".
+2. 🗑 **Remove Single Task** — Delete individual tasks.
+3. ✏ **Edit Task** — Modify existing tasks anytime.
+4. ✔ **Mark as Done** — Tick completed tasks (strikethrough style).
+5. 🧹 **Clear All Tasks** — Remove all tasks at once with one click.
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+- **Tailwind CSS**
+- **Redux Toolkit**
+- **Vite**
+- **Node.js**
+
+---
+
+## 🚀 Installation
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/Abhi00705/TODO_with_new_feature.git
+
+# 2️⃣ Install dependencies
+npm install
+
+# 3️⃣ Start the development server
+npm run dev
+````
+
+---
+
+## 📌 How to Use
+
+1. Type your task in the input bar.
+2. Click **Add** to display the task below.
+3. **Tick** to mark it as done, or **Edit** to change it.
+4. **Remove** a single task or click **Clear** to delete all tasks.
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this repo, make changes, and create a pull request.
+
+---
+
+## 📄 License
+
+This project is **open-source** and available under the [MIT License](LICENSE).
+
+```
+
+If you want, I can also **add badges (like React, Tailwind, Redux icons)** at the top to make the README look more professional. That would make it stand out more on GitHub.
+```
